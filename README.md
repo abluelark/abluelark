@@ -1,2 +1,2 @@
 # abluelark
-simple HTML for my abluelark.tk website
+simple HTML for my austinclark.tk website
