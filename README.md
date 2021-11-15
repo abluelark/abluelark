@@ -2,7 +2,7 @@
 The code for my website, **[austinclark.tk](austinclark.tk)**. 
 
 ## Features
-- A simple layout similar to a carrd or linkme
-- Optimized for Mobile
+- a simple layout similar to a carrd or linkme
+- optimized for mobile
 - animiated buttons
-- Easy to deploy and edit within a GitHub site
+- easy to deploy and edit within a github site
