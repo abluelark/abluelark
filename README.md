@@ -1,5 +1,5 @@
 # abluelark
-The code for my website, austinclark.tk. 
+The code for my website, **[austinclark.tk](austinclark.tk)**. 
 
 ## Features
 - A simple layout similar to a carrd or linkme
