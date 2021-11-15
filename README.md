@@ -1,7 +1,7 @@
 # abluelark
 The code for my website, austinclark.tk.
 
-# features
+## Features
 - A simple layout similar to a carrd or linkme
 - Optimized for Mobile
 - animiated buttons
