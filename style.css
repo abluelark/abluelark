@@ -29,7 +29,7 @@ body{
     transition: 1s all ease;
   }
   .btn::before{
-    background: #ff8d89;
+    background: #d17b49;
     content: "";
     position: absolute;
     top: 50%;
